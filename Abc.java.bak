@@ -30,10 +30,8 @@ class Abc {
 		//abc.fun1();
 		//abc.fun2();
 		Abc.fun3();
-		//abc.fun2();
-		abc.fun1();
 		abc.fun2();
-
+		abc.fun1();
 
 
 
